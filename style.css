@@ -19,11 +19,11 @@ article {
   display: none;
 }
 .main-title {
-  font-size: 14px;
+  font-size: 35px;
   color: #7c7c7c;
 }
 .sub-title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 100;
   color: #ebebeb;
 }
@@ -37,13 +37,13 @@ article {
   align-items: center;
 }
 .btn-start {
-  font-size: 16px;
+  font-size: 20px;
   color:#ff9300;
   background-color: #1f1f1f;
   border:#1f1f1f;
 }
 .btn-start, .btn-start:visited, .btn-start:hover, .btn-start:active {
-  font-size: 16px;
+  font-size: 20px;
   color:#ff9300;
   background-color: #1f1f1f;
   border:#1f1f1f;
@@ -51,7 +51,7 @@ article {
 .btn-start:active, .btn-start:focus {
   background-color: #ff9300 !important;
   border:#1f1f1f !important;
-  font-size: 16px;
+  font-size: 20px;
   color:#ffffff;
 }
 
@@ -61,7 +61,7 @@ article {
   border:#1f1f1f;
   width: 288px;
   margin: 0 auto;
-  font-size: 13px;
+  font-size: 15px;
   color: #ffffff;
 }
 .btn-answer:hover {
@@ -69,7 +69,7 @@ article {
   border:#1f1f1f !important;
   width: 288px;
   margin: 0 auto;
-  font-size: 13px;
+  font-size: 15px;
   color: #ffffff;
 }
 .progress-bar {
@@ -87,7 +87,7 @@ article {
   margin: 0 auto;
 }
 .question-content {
-  font-size: 14px;
+  font-size: 16px;
   color: #ff9300;
 }
 .rectangle {
@@ -111,12 +111,12 @@ article {
   font-weight: 100;
 }
 .result-animal {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 100;
   color: #ebebeb;
 }
 .result-explain {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: normal;
   color: #ff9300;
 }
